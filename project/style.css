@@ -44,9 +44,9 @@ header:after{
 
 .person{
     position: absolute;
-    width: 1152px;
-    bottom: -200px;
-    top: 50%;
+    width: 650px;
+    bottom: -100px;
+    left: -70px;
     z-index: 20;
 }
 
