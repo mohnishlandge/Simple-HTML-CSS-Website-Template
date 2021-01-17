@@ -1,3 +1,3 @@
-# Portfolio
+# Simple HTML/CSS Website Template
 Personal Portfolio website designed to be fully customised.
-<img href="images/meta.png"/>
+![Simple HTML/CSS Website Template](images/meta.png?raw=true "Simple HTML/CSS Website Template")
